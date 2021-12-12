@@ -1,5 +1,5 @@
 {
-  "name": "zvn-ups-shipping",
+  "name": "@kirby_zvndev/ups-shipping",
   "version": "1.0.0",
   "description": "A simple NodeJS module for integrating UPS APIs",
   "dependencies": {
