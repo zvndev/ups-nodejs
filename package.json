@@ -1,5 +1,5 @@
 {
-  "name": "ups-shipping",
+  "name": "zvn-ups-shipping",
   "version": "1.0.0",
   "description": "A simple NodeJS module for integrating UPS APIs",
   "dependencies": {
@@ -30,6 +30,6 @@
   "author": "Zach Harris",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zachzoup/ups-nodejs/issues"
+    "url": "https://github.com/zvndev/ups-nodejs/issues"
   }
 }
